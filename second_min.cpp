@@ -16,6 +16,6 @@ int main()
          }
      }
  }
- cout<<first_min<<" "<<second_min;
+ cout<<first_min<<" yuwfuya"<<second_min;
     return 0;
 }
